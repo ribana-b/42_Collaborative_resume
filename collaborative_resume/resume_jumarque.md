@@ -35,6 +35,11 @@ Mi objetivo es orientar mi carrera hacia la administración de sistemas, la infr
 - Reforcé competencias en administración de sistemas, redes, seguridad y organización de infraestructuras complejas.
 - Principal aprendizaje: gestión integral de entornos contenerizados y depuración de arquitecturas multi-servicio.
 
+### PCI Passthrough en Proxmox
+
+- Configuré la asignación directa de hardware físico (GPU, tarjetas de red) a máquinas virtuales en Proxmox sobre Debian 12, habilitando IOMMU (Intel VT-d/AMD-Vi) y los módulos VFIO del kernel para evitar la emulación y lograr rendimiento nativo.
+- Documenté el proceso completo, desde la configuración de BIOS y GRUB hasta el blacklisting de drivers del host y la verificación con `lspci`, orientado a casos de aceleración de IA y transcodificación de vídeo.
+
 ---
 
 ## Experiencia Profesional
