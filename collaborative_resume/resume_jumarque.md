@@ -63,8 +63,7 @@ Mi objetivo es orientar mi carrera hacia la administración de sistemas, la infr
 
 ### Técnico Superior en Desarrollo de Aplicaciones Informáticas (DAI)
 
-*Formación Profesional Grado Superior · [Centro] · [Año]*
-
+*Formación Profesional Grado Superior · Politécnica Jesús Marín, Málaga · 2004-2006*
 ---
 
 ## Divulgación Técnica
